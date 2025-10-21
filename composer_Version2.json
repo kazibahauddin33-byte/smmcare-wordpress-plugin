@@ -1,0 +1,13 @@
+{
+  "name": "kazibahauddin33-byte/smmcare",
+  "description": "SMMCARE WordPress plugin scaffold",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "SMMCARE\\": "includes/"
+    }
+  }
+}

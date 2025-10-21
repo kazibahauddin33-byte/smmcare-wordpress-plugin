@@ -1,0 +1,12 @@
+{
+  "name": "smmcare-plugin",
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "watch": "webpack --watch"
+  }
+}
